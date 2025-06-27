@@ -1,2 +1,3 @@
-# simple-demo
-This is a simple repository for training
+# simple example repository
+This is a simple example repository for alvin's training
+
